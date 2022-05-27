@@ -94,3 +94,4 @@ class _HomeState extends State<Home> {
 }
 
 //safe area brings the text in the area where it is visible
+//nishant
